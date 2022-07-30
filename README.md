@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kiprogony
 - 👀 I’m interested in Software Development ...
-- 🌱 I’m currently learning Front-End Dev
-- 💞️ I’m looking to collaborate on diffrent projects involving Front-end
+- 🌱 I’m currently learning Ruby on Rails
+- 💞️ I’m looking to collaborate on diffrent projects involving Front-end 
 - 📫 Reach me via darylrogony@gmail.com
 
 <!---
